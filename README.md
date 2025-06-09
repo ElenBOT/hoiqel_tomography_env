@@ -1,7 +1,7 @@
-# hoiqel_tomography_env
+# hoiqel tomography env
 Tomography measurement environment setup, of HoiQEL.
 
-# requirement
+# requirements
 1. Use windows >= 7 computer.
 2. Have installed anaconda or miniconda on the computer.
 3. Have installed git on the computer.
