@@ -1,3 +1,4 @@
+see video: https://www.youtube.com/watch?v=l_GHQ7Fy5kc&t.
 # hoiqel tomography env
 Tomography measurement environment setup, of HoiQEL.
 
