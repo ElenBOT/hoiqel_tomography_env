@@ -1,4 +1,4 @@
-see video: [https://www.youtube.com/watch?v=l_GHQ7Fy5kc&t.](https://studio.youtube.com/video/dfAUpDFE_Dg/edit)
+see video: https://www.youtube.com/watch?v=dfAUpDFE_Dg.
 # hoiqel tomography env
 Tomography measurement environment setup, of HoiQEL.
 
